@@ -1,0 +1,7 @@
+{
+    "require": {
+        "automattic/woocommerce": "^3.0",
+        "guzzlehttp/guzzle": "^6.3",
+        "nesbot/carbon": "^2.19"
+    }
+}
